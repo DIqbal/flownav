@@ -49,3 +49,6 @@ body{
 - Hamburger Menu for smaller mobile screens
 - More style variations
 - Dropdown menu incorporation
+
+##### Planned Updates: Further down the line
+- The use of flexbox

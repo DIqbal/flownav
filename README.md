@@ -9,7 +9,7 @@ Created by Danesh Iqbal - Email: [DIqbal](mailto:daneshiqbal95@hotmail.co.uk?Sub
 <p>flownav can be implemented using CDN</p>
 
 ```html
-<link rel="stylesheet" type="text/css" href="flownav.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/DIqbal/flownav/9f1b1954/flownav.css">
 ```
 
 ### Styles

@@ -13,7 +13,7 @@ Created by Danesh Iqbal - Email: [DIqbal](mailto:daneshiqbal95@hotmail.co.uk?Sub
 ```
 
 ### Styles
-flownav comes in two different styles which are demonstrated in [flownav-thin] and [flownav-thick]
+flownav comes in two different styles which are demonstrated in [flownav-thin (https://github.com/DIqbal/flownav/blob/master/Pages/flownav-thin.html) and [flownav-thick](https://github.com/DIqbal/flownav/blob/master/Pages/flownav-thick.html)
 
 ### Using flownav
 <p>Using flownav is very easy and intuitive.</p>

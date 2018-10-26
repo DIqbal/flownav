@@ -1,0 +1,1 @@
+C:\Users\danes\Documents\GitHub\flownav\flownav\platforms\windows\CordovaApp.Windows10.jsproj;neutral

@@ -1,0 +1,4 @@
+#Fri Oct 26 23:19:46 BST 2018
+base.0=C\:\\Users\\danes\\Documents\\GitHub\\flownav\\flownav\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
